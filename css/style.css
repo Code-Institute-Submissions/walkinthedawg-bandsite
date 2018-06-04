@@ -82,32 +82,33 @@ header{
     margin-left: 50px;
 }
 
-.logo{
-    background-image: url("../images/rosie.jpg");
+.band-photo{
+    background-image: url("../assets/photos/whole_band.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    min-height: 560px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 .name{
     font-family: "Exo", sans-serif;
     font-weight: 100;
     font-size: 46px;
-    margin-top: 50px;
+    margin-top: 5px;
     color: #ffffff;
+    text-align: center;
 }
 
-.title{
+.byline{
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 90px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     color: #ffffff;
+    text-align: center;
 }
 
 #nav{
