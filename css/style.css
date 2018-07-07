@@ -79,7 +79,11 @@ header{
 }
 
 .heading{
-    margin-left: 50px;
+    margin-left: 0px;
+}
+
+.row col-md-12 {
+    margin: 0;
 }
 
 .band-photo{
@@ -88,8 +92,9 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 560px;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 10px;
 }
 
 .name{
@@ -109,6 +114,15 @@ header{
     margin-bottom: 5px;
     color: #ffffff;
     text-align: center;
+}
+
+.nav navbar-nav {
+    text-align: right;
+}
+
+.nav nav-pills{
+    text-align: center;
+    display: block;
 }
 
 #nav{
@@ -149,7 +163,12 @@ header{
     letter-spacing: 2px;
 }
 
-
+.section-info{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+}
 
 /*------------------------HoverCSS--------*/
 
