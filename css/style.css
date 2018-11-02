@@ -41,12 +41,15 @@ h1,h2,h3,h4{
     font-weight: 700;
     color: #ff0000;
     font-size: xx-large;
+    text-align: center;
 }
 
 .video-header{
     font-weight: 700;
     color: #ff0000;
     font-size: xx-large;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 /*------------------------Heading--------*/
@@ -59,16 +62,14 @@ h1,h2,h3,h4{
     margin-left: 0px;
 }
 
-.row.col-md-5 {
-    margin: 0;
-}
 
 #band-photo{
     background-image: url("../assets/photos/wtd-band.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
-    min-height: 860px;
+    min-height: 660px;
+    min-width: 500px;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10px;
@@ -93,7 +94,19 @@ h1,h2,h3,h4{
     text-align: center;
 }
 
+.hr{
+    width: 80%;
+}
 
+#section-info{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 10px;
+}
 
 .section-info{
     display: block;
@@ -102,6 +115,40 @@ h1,h2,h3,h4{
     font-weight: 700;
     padding-left: 15%;
     padding-right: 15%;
+    margin-top: 10px;
+}
+
+.section-text{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.section-heading{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contact-info{
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 20px;  
+    margin-bottom: 50px;
 }
 
 .presskit{
@@ -111,6 +158,7 @@ h1,h2,h3,h4{
     font-weight: 700;
     padding-left: 15%;
     padding-right: 15%;
+    margin-top: 20px;
 }
 
 .youtubechannel{
@@ -120,7 +168,10 @@ h1,h2,h3,h4{
     font-weight: 700;
     padding-left: 15%;
     padding-right: 15%;   
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
+
 
 .empty-space-small{
     height: 40px;
@@ -177,6 +228,37 @@ footer{
 
 .center-block{
     text-align: center;
+}
+
+.copyright{
+    font-family: "Exo", sans-serif;
+    font-size: 22;
+    font-weight: 700;
+    margin-top: 40px;  
+    text-align: center;
+}
+
+.social-text{
+    font-family: "Exo", sans-serif;
+    font-size: 22;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.download-presskit{
+    margin-top: 35px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.download-presskit a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.download-presskit a:hover{
+    color: #afafaf;
+    text-decoration: none;
 }
 
 
