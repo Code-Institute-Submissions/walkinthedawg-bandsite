@@ -40,7 +40,8 @@ explanation of what we like to play and offer our customers.
 
 Additional Pages in planning stage:   Song List Page.  List of most of our current song list.
 Maybe a three column list of 60 songs and artists listed.
-Also thinking about adding a Trivia Page.  Such as....who was the first one off the plane when the Beatles in New York?   George!
+Also thinking about adding a Trivia Page.  Such as....who was the first one off the plane
+when the Beatles landed in New York?   George!
 
 TECHNOLOGIES USED
 This is a simple website consisting of mainly HTML in a BootStrap Framework.
