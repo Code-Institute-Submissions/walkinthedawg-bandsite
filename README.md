@@ -40,6 +40,7 @@ explanation of what we like to play and offer our customers.
 
 Additional Pages in planning stage:   Song List Page.  List of most of our current song list.
 Maybe a three column list of 60 songs and artists listed.
+Also thinking about adding a Trivia Page.  Such as....who was the first one off the plane when the Beatles in New York?   George!
 
 TECHNOLOGIES USED
 This is a simple website consisting of mainly HTML in a BootStrap Framework.
@@ -61,7 +62,8 @@ I purchased the domain name and hosted it on their 3 yr Plus Plan.
 It was easy to deploy since no DB was involved.  Simply use FTP to upload all files
 to the server.  No config files.  Nothing.
 
-CREDITS
+CREDITS:
+
 CONTENT
 Credit goes out to CodeInstitute for the class work.
 Credit to Cloud 9 for the dev IDE for free.
