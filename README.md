@@ -44,8 +44,8 @@ explanation of what we like to play and offer our customers.
 6) Contact Page. Clearly shows how to contact the leader of the band for booking appts.
 
 *Additional Pages in planning stage:*   
--Song List Page.  List of most of our current song list. Maybe a three column list of 60 songs and artists listed.
-
+-Song List Page.  List of most of our current song list.
+Maybe a three column list of 60 songs and artists listed.
 -Also thinking about adding a Trivia Page.  Such as....who was the first one off the plane
 when the Beatles landed in New York?   George!
 
